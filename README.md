@@ -1,4 +1,5 @@
 # greppy
+A grep-like program written in Rust!
 
 ## Usage
 
